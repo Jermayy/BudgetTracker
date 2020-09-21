@@ -18,7 +18,7 @@ Within the Terminal type "npm i" or "npm install" to install dependencies to run
 ## Usage:
 to run the application locally type "npm start" into your Terminal. Alternatively a live deployed version of the application can be accessed here: https:/https://dashboard.heroku.com/apps/fathomless-depths-68875
 
-![](/screenshots/1.png)
+![](/screenshots/2.png)
 
 
 ## License Details:  
